@@ -24,11 +24,11 @@ const robotomono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TinkerHub CEP",
+  title: "ASCI CEP",
   description:
-    "TinkerHub CEP is a community of students, developers, designers, and all-around makers from across the globe. We are a non-profit technological community based in Kerala, India.",  
+    "ASCI CEP is a community of students, developers, designers. We are a community based on CEP.",  
   icons: {
-    icon: "public/favicon.ico",
+    icon: "public/asci.svg",
   },
 };
 export default function RootLayout({

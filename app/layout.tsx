@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   description:
     "ASCI CEP is a community of students, developers, designers. We are a community based on CEP.",  
   icons: {
-    icon: "public/asci.svg",
+    icon: "public/favicon.ico",
   },
 };
 export default function RootLayout({
